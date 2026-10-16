@@ -13,15 +13,15 @@
 
 ---
 
-### 🔥 About Me
-- Currently learning **Web Development**
+###  About Me
+- 24/7 Korean dramas
 - Interested in **JavaScript & PHP**
 - Fun fact: *AI 51% Brain 49%*
 - Always Learning New Things
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,firebase,php,mysql,bootstrap,figma" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IKSP-Nata&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKSP-Nata&layout=compact&langs_count=4&theme=radical"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 Streak Stats
+###  Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IKSP-Nata&theme=radical" alt="GitHub Streak" />
 </p>
