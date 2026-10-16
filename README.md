@@ -30,17 +30,10 @@
   </a>
 </p>
 
-**Backend & Database**
+**Backend, AI & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,firebase" height="48" />
-  </a>
-</p>
-
-**AI & Development Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,vscode,git,github" height="48" />
+    <img src="https://skillicons.dev/icons?i=php,py,mysql,firebase,git,github,vscode" height="48" />
   </a>
 </p>
 
