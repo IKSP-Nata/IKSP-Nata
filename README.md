@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kadek Nata</h1>
+<h1 align="center">Hi, I'm Kadek Nata</h1>
 
 <p align="center">
-  <b>💻 Student</b>
+  <b>Student</b>
 </p>
 
 <!-- Bagian Teks Mengetik Otomatis (Readme Typing SVG) -->
@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IKSP-Nataa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IKSP-Nata&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&langs_count=4&theme=radical"/>
 </p>
 
@@ -40,5 +40,5 @@
 
 ### 🚀 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IKSP-Nataa&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=IKSP-Nata&theme=radical" alt="GitHub Streak" />
 </p>
