@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kadek Nata</h1>
+<h1 align="center">❄️ Hi, I'm Kadek Nata</h1>
 
 <p align="center">
   <b>Student</b>
@@ -33,7 +33,14 @@
 **Backend & Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,firebase" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,firebase" height="48" />
+  </a>
+</p>
+
+**AI & Development Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,vscode,git,github" height="48" />
   </a>
 </p>
 
