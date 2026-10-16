@@ -1,4 +1,4 @@
-<h1 align="center">❄️ Hi, I'm Kadek Nata</h1>
+<h1 align="center">Hi 👋, I'm Kadek Nata</h1>
 
 <p align="center">
   <b>Student</b>
