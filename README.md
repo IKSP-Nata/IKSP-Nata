@@ -37,11 +37,10 @@
   </a>
 </p>
 
-**Design & Development Tools**
+**Design Tools**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="48" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" height="48" alt="Figma & Photoshop" />
 </p>
 
 ---
