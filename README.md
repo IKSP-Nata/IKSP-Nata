@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IKSP-Nataa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&langs_count=4&theme=radical"/>
 </p>
 
@@ -40,5 +40,5 @@
 
 ### 🚀 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=IKSP-Nataa&theme=radical" alt="GitHub Streak" />
 </p>
