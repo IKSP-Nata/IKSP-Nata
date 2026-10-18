@@ -14,6 +14,7 @@
 ---
 
 ###  About Me
+- Music Is My Life
 - 24/7 Korean dramas
 - Interested in **JavaScript & PHP**
 - Fun fact: *AI 50% Brain 50%*
